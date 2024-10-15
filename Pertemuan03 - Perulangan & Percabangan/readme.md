@@ -1,6 +1,6 @@
 # <h1 align="center">Laporan Praktikum Modul 3 PERULANGAN & PERCABANGAN</h1>
 
-<h1 align="center">Muhammad Deka Maulana - 2311102129</h1>
+<h1 align="center">Muhammad Deka Maulana - 2311102148</h1>
 
 <h2 align="center">PERTEMUAN 3</h2>
 <h2 align="center">PERULANGAN & PERCABANGAN</h2>
