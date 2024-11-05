@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 5 FUNGSI DAN PROSEDUR</h1>
+# <h1 align="center">Laporan Praktikum Modul 5 STRUCT & ARRAY</h1>
 
 <h1 align="center">Muhammad Deka Maulana - 2311102148</h1>
 
