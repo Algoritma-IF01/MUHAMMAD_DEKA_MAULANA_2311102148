@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 6 PENCARIAN NILAI ESKTRIM PADA HIMPUNAN DATA</h1>
+# <h1 align="center">Laporan Praktikum Modul 6 : PENCARIAN NILAI ESKTRIM PADA HIMPUNAN DATA</h1>
 
 <h1 align="center">Muhammad Deka Maulana - 2311102148</h1>
 
